@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="27cm" height="23cm" viewBox="101 253 538 457" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #000000" cx="172.433" cy="313.466" rx="66.5673" ry="58.5336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="172.433" cy="313.466" rx="66.5673" ry="58.5336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="172.433" y="318.266">
+      <tspan x="172.433" y="318.266"></tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="334.933" cy="297.966" rx="36.0673" ry="34.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="334.933" cy="297.966" rx="36.0673" ry="34.0336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="334.933" y="302.766">
+      <tspan x="334.933" y="302.766">3</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="473.933" cy="300.966" rx="34.0673" ry="29.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="473.933" cy="300.966" rx="34.0673" ry="29.0336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="473.933" y="305.766">
+      <tspan x="473.933" y="305.766">4</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="239.955" y1="312.172" x2="291.877" y2="311.177"/>
+    <polygon style="fill: #000000" points="299.375,311.033 289.473,316.224 291.877,311.177 289.281,306.226 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="299.375,311.033 289.473,316.224 291.877,311.177 289.281,306.226 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="373" y1="302" x2="430.131" y2="301.117"/>
+    <polygon style="fill: #000000" points="437.63,301.001 427.708,306.155 430.131,301.117 427.554,296.156 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="437.63,301.001 427.708,306.155 430.131,301.117 427.554,296.156 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="460.896" y1="274.143" x2="370.172" y2="273.924"/>
+    <polygon style="fill: #000000" points="362.672,273.906 372.684,268.93 370.172,273.924 372.66,278.93 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="362.672,273.906 372.684,268.93 370.172,273.924 372.66,278.93 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="334.933" cy="396.466" rx="40.0673" ry="32.5336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="334.933" cy="396.466" rx="40.0673" ry="32.5336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="334.933" y="401.266">
+      <tspan x="334.933" y="401.266">6</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="334.933" y1="331.98" x2="334.933" y2="354.197"/>
+    <polygon style="fill: #000000" points="334.933,361.697 329.933,351.697 334.933,354.197 339.933,351.697 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="334.933,361.697 329.933,351.697 334.933,354.197 339.933,351.697 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="471.433" cy="398.466" rx="47.5673" ry="50.5336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="471.433" cy="398.466" rx="47.5673" ry="50.5336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="471.433" y="403.266">
+      <tspan x="471.433" y="403.266"></tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="470.933" cy="399" rx="34.0673" ry="36"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="470.933" cy="399" rx="34.0673" ry="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="470.933" y="403.8">
+      <tspan x="470.933" y="403.8"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="375.979" y1="397.389" x2="414.132" y2="398.247"/>
+    <polygon style="fill: #000000" points="421.63,398.416 411.52,403.19 414.132,398.247 411.745,393.193 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="421.63,398.416 411.52,403.19 414.132,398.247 411.745,393.193 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="103" y="446">
+    <tspan x="103" y="446">Complejidad Ciclomática:</tspan>
+    <tspan x="103" y="462"></tspan>
+    <tspan x="103" y="478">5-5+2 = 2</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="101" y="506">
+    <tspan x="101" y="506">Caminos:</tspan>
+    <tspan x="101" y="522"></tspan>
+    <tspan x="101" y="538">Camino 1: Inicio, 3, 6, fin</tspan>
+    <tspan x="101" y="554"></tspan>
+    <tspan x="101" y="570">Camino 2: Inicio, 3, 4, 3, 6, fin</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="112" y="611">
+    <tspan x="112" y="611">Camino          Caso de Prueba                Resultado Esperado</tspan>
+    <tspan x="112" y="627"></tspan>
+    <tspan x="112" y="643">1                  Camino no Ejecutable       Camino no Ejecutable</tspan>
+    <tspan x="112" y="659"></tspan>
+    <tspan x="112" y="675">2                  tablaDeMultiplicar (2)       "1 x 2 = 2\n2 x 2 = 4\n3 x 2 = 6\n4 x 2 =</tspan>
+    <tspan x="112" y="691">                                                          8\n5 x 2 = 10\n6 x 2 = 12\n7 x 2 = 14\n8 x 2 = 16</tspan>
+    <tspan x="112" y="707">                                                          \n9 x 2 = 18\n10 x 2= 20\n"</tspan>
+  </text>
+</svg>

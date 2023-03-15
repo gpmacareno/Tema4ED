@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="55cm" height="21cm" viewBox="212 41 1092 418" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #000000" cx="267.293" cy="241.068" rx="45" ry="44.5"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="267.293" cy="241.068" rx="45" ry="44.5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="267.293" y="244.968">
+      <tspan x="267.293" y="244.968"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="307.382" y1="218.863" x2="371.398" y2="183.403"/>
+    <polygon style="fill: #000000" points="377.959,179.769 371.634,188.989 371.398,183.403 366.789,180.241 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="377.959,179.769 371.634,188.989 371.398,183.403 366.789,180.241 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="416.454" cy="178.686" rx="36.5386" ry="31.1218"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="416.454" cy="178.686" rx="36.5386" ry="31.1218"/>
+    <text font-size="12.9143" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="416.454" y="174.493">
+      <tspan x="416.454" y="174.493">3</tspan>
+      <tspan x="416.454" y="190.636"></tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="420.433" cy="290.966" rx="39.5673" ry="27.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="420.433" cy="290.966" rx="39.5673" ry="27.0336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420.433" y="294.866">
+      <tspan x="420.433" y="294.866">5</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="308.867" y1="258.097" x2="372.009" y2="286.923"/>
+    <polygon style="fill: #000000" points="378.831,290.038 367.658,290.433 372.009,286.923 371.811,281.336 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="378.831,290.038 367.658,290.433 372.009,286.923 371.811,281.336 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="558.547" cy="238.421" rx="42.0673" ry="35.5336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="558.547" cy="238.421" rx="42.0673" ry="35.5336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="558.547" y="242.321">
+      <tspan x="558.547" y="242.321">0</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="450.211" y1="190.596" x2="510.948" y2="220.52"/>
+    <polygon style="fill: #000000" points="517.676,223.835 506.496,223.9 510.948,220.52 510.915,214.93 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="517.676,223.835 506.496,223.9 510.948,220.52 510.915,214.93 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="460" y1="290.966" x2="511.528" y2="257.34"/>
+    <polygon style="fill: #000000" points="517.809,253.241 512.167,262.894 511.528,257.34 506.702,254.519 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="517.809,253.241 512.167,262.894 511.528,257.34 506.702,254.519 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="353" y="399">
+    <tspan x="353" y="399"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffc0cb" x="269.042" y="366.713" width="256.5" height="78.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="269.042" y="378.613">
+      <tspan x="269.042" y="378.613">Calculamos la Complejidad Ciclomatica:</tspan>
+      <tspan x="269.042" y="394.613"></tspan>
+      <tspan x="269.042" y="410.613">Tenemos 4 flechas y 4 nodos.</tspan>
+      <tspan x="269.042" y="426.613"></tspan>
+      <tspan x="269.042" y="442.613">CC = 4 - 4 + 2 = 2</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="616" y1="350" x2="792" y2="350"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="615" y1="350" x2="614" y2="457"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="613" y1="457" x2="798" y2="458"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="797" y1="458" x2="797" y2="351"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="790.749" y1="349.385" x2="798.382" y2="350.475"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="615.45" y1="385.099" x2="797.292" y2="385.644"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="701.6" y1="349.93" x2="701.6" y2="457.072"/>
+  <g>
+    <rect style="fill: #ffc0cb" x="626.167" y="359.212" width="60.95" height="14.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="626.167" y="371.112">
+      <tspan x="626.167" y="371.112">Camino 1</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffff00" x="627.709" y="396.996" width="60.95" height="14.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="627.709" y="408.896">
+      <tspan x="627.709" y="408.896">Camino 2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffc0cb" x="707.904" y="357.67" width="70.25" height="14.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="707.904" y="369.57">
+      <tspan x="707.904" y="369.57">Inicio-3-Fin</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffff00" x="711.759" y="395.454" width="70.25" height="14.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="711.759" y="407.354">
+      <tspan x="711.759" y="407.354">Inicio-5-Fin</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="539.384" y="41.9031" width="715.8" height="30.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="539.384" y="53.8031">
+      <tspan x="539.384" y="53.8031">Los casos de prueba son aquellos el cual le damos valor en este caso a la n. Veremos que al tener dos caminos</tspan>
+      <tspan x="539.384" y="69.8031">serán dos posibilidades ya que hay dos caminos.</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="657.041" y1="88.2803" x2="931.574" y2="88.553"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="657.313" y1="88.0077" x2="657.313" y2="221.049"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="658.131" y1="219.14" x2="938.663" y2="219.413"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="932.12" y1="88.0077" x2="932.687" y2="218.2"/>
+  <text font-size="8.46654" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="765.629" y="99.2759">
+    <tspan x="765.629" y="99.2759">Casos de prueba</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="657.368" y1="103.479" x2="932.866" y2="103.979"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="767.867" y="120.979">
+    <tspan x="767.867" y="120.979">esPar(2);</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="748.367" y1="103.479" x2="748.367" y2="219.479"/>
+  <g>
+    <rect style="fill: #00ff00" x="601.87" y="324.578" width="216.95" height="14.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="601.87" y="336.478">
+      <tspan x="601.87" y="336.478">Identificamos diferentes caminos.</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="212.226" y="136.125" width="149.6" height="14.9"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="212.226" y="148.025">
+      <tspan x="212.226" y="148.025">Grafo de recubrimiento</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="857.389" y1="104.979" x2="857.889" y2="219.979"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="874.389" y="120.979">
+    <tspan x="874.389" y="120.979">true</tspan>
+  </text>
+  <text font-size="7.33767" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="856.889" y="99.4793">
+    <tspan x="856.889" y="99.4793">Resultado esperado</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="675.89" y="99.9793">
+    <tspan x="675.89" y="99.9793">Camino</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="748.889" y1="88.4794" x2="748.889" y2="105.479"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="852.889" y1="88.9794" x2="852.389" y2="103.479"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="656.39" y1="139.479" x2="934.388" y2="139.479"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="701.39" y="122.479">
+    <tspan x="701.39" y="122.479">1</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="699.39" y="171.479">
+    <tspan x="699.39" y="171.479">2</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="776.389" y="167.979">
+    <tspan x="776.389" y="167.979">esPar(3);</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="880.889" y="171.479">
+    <tspan x="880.889" y="171.479">false</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="932.913" y1="87.9108" x2="1013.78" y2="87.9108"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="931.846" y1="218.2" x2="1019.13" y2="219.317"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1012.59" y1="88.5054" x2="1017.94" y2="220.507"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="931.724" y1="104.56" x2="1013.18" y2="104.56"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="927.642" y1="138.315" x2="1013.78" y2="140.83"/>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="947.183" y="99.2082">
+    <tspan x="947.183" y="99.2082">Resultado Real</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="948.313" y="124.903">
+    <tspan x="948.313" y="124.903">esPar(2);</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="947.124" y="176.633">
+    <tspan x="947.124" y="176.633">esPar(3);</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="762.827" y="231.654">
+    <tspan x="762.827" y="231.654"></tspan>
+  </text>
+  <text font-size="10.1598" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="835.985" y="132.429">
+    <tspan x="835.985" y="132.429">*1</tspan>
+  </text>
+  <text font-size="10.1598" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="835.144" y="199.7">
+    <tspan x="835.144" y="199.7">*2</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="816.644" y="242.586">
+    <tspan x="816.644" y="242.586">*1 Le aplicamos al nombre del método un número par. En este ejemplo 2</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="816.644" y="266.131">
+    <tspan x="816.644" y="266.131">*2 Le aplicamos al nombre del método un número impar. En este ejemplo 3</tspan>
+  </text>
+</svg>

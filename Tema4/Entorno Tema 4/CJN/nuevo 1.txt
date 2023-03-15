@@ -1,0 +1,84 @@
+/*1º Clases de equivalencia:
+ * Se Evalua para las entradas tanto para los:
+ * 				-Valores Validos
+ * 				-Valores no Validos
+ * Se Evalua tambien para las salidas:
+ * 				-Valores Validos
+ * 				-Valores no Validos*/
+
+/*Entradas aplicarDescuento():   VV: Porcentaje positivo. De 1 a 99 - getPrecio()
+ * 			                     VN: De 0 a Integer.MIN_VALUE
+ * 						         VN: De 100 a Integer.MAX_VALUE
+ * 			                     Tres casos de prueba por cada clase de equivalencia tanto Valida como de no Valida.
+ 
+ *Entradas setIVA():      VV:21
+                          VV:10
+						  VV:4
+ *						  VN:Cualquier otro que no sean estos tres valores
+ *                        Cuatro casos de prueba por cada clase de equivalencia tanto Valida como de no Valida.
+ 
+ *Entrada setPrecio():    VV: De 0.1 a Double.MAX_VALUE
+ * 			              VN: De 0.0 a Double.MIN_VALUE        
+ *                        Dos casos de prueba por cada clase de equivalencia tanto Valida como de no Valida.
+ * */
+
+/*Salida aplicarDescuento(): No se estudian en el método aplicarDescuento() porque no devuelven nada, es tipo Void. 
+ * 						  
+ *Salida setIVA():           No se estudian en el método setPrecio() porque no devuelven nada, es tipo Void. 
+ *
+ *Salida setPrecio():        No se estudian en el método setIVA() porque no devuelven nada, es tipo Void. 
+ * 			
+ * 			                 9 casos de prueba en total*/
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Casos de Prueba:
+
+1  -      Producto p = New Producto();       80.0
+	      p.setPrecio(100.0)
+          p.aplicarDescuento(20)
+		  p.getPrecio();
+		  
+2  -      Producto p = New Producto();       100.0
+		  p.setPrecio(100.0)
+		  p.aplicarDescuento(-2)
+		  p.getPrecio();
+		  
+3  -      Producto p = New Producto();       100.0
+		  p.setPrecio(100.0)
+		  p.aplicarDescuento(120)
+		  p.getPrecio();
+		  
+4  -      Producto p = New Producto();         7.9
+		  p.setPrecio(10.0)
+		  p.setIVA(21)
+		  p.getPrecio;
+		  
+5  -      Producto p = New Producto();         4.5
+		  p.setPrecio(5.0)
+		  p.setIVA(10)
+		  p.getPrecio;
+		 
+6  -      Producto p = New Producto();         1.92
+          p.setPrecio(2.0)
+		  p.setIVA(4)
+		  p.getPrecio;
+		  
+7  -      Producto p = New Producto();          90.0
+		  p.setPrecio(90.0)
+		  p.setIVA(1000)
+		  p.getPrecio;
+		  
+8  -      Producto p = New Producto();          90.0
+		  p.setPrecio(90.0)
+		  p.getPrecio;
+		  
+9  -	  Producto p = New Producto();           0.0
+		  p.setPrecio(-50.0)
+		  p.getPrecio;
+		  
+--------------------------------------------------------------------------------------------------------------------------
+
+
